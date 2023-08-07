@@ -1,8 +1,7 @@
 ### Hi there 👋
-<div>
+
 ![JMboy713's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMboy713&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jimin713)](https://solved.ac/jimin713)
-</div>
 
 
 
