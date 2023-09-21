@@ -3,7 +3,7 @@
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jimin713)](https://solved.ac/jimin713)
-- 🔭 I’m currently working on <a href='http://lghellovisiondataschool.rapa.or.kr/ft/main.do?utm_source=boottent&utm_medium=referral'>LG Hellovision DXData School</a>
+- 🔭 I’m currently studying on <a href='http://lghellovisiondataschool.rapa.or.kr/ft/main.do?utm_source=boottent&utm_medium=referral'>LG Hellovision DXData School</a>
 - 🌱 I’m currently learning Python, Machine Learning, NLP
 
 - 📫 How to reach me: <a href='jimin713@naver.com'>jimin713@naver.com</a>
