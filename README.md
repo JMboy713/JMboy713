@@ -41,7 +41,10 @@
 <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=Amazon%20ECS&logoColor=white"> &nbsp  
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Amazon%20CloudFront-FF9900?style=flat-square&logo=amazon-cloudfront&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Amazon%20Route%2053-8c4fff?style=flat-square&logo=Amazon%20Route%2053&logoColor=white"> &nbsp
+<br>
+<img src="https://img.shields.io/badge/PythonAnywhere-3776AB?style=flat-square&logo=pythonanywhere&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> &nbsp
 <br>
