@@ -1,6 +1,8 @@
 <div align="center">
-  
-# Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=300&section=header&text=Hi%20there👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+
+
 
 안녕하세요! 끊임없이 성장하는 개발자 김지민입니다! <br/>
 저는 새로운 언어와 기술을 학습하고 적용하는 것을 좋아합니다. <br/>
@@ -31,6 +33,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> &nbsp
 <br>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> &nbsp
