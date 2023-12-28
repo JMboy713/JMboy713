@@ -78,6 +78,7 @@
 
 [![instagram](https://img.shields.io/badge/instagram-EC036A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/revolt_cool)](https://www.instagram.com/g.mini_07.13/)
 [![Email](https://img.shields.io/badge/jimin713@Naver.com-005FF9?style=flat&logo=Gmail&logoColor=#EA4335&link=mailto:jimin713@naver.com)](mailto:jimin713@naver.com)
+[![Email](https://img.shields.io/badge/jimin713@Naver.com-005FF9?style=flat&logo=Gmail&logoColor=#EA4335&link=mailto:jimin713@naver.com)](mailto:jimin713@naver.com)
 
 
 
