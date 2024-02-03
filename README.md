@@ -9,10 +9,11 @@
 백엔드, DB, 클라우드 그리고 다양한 IT 분야에 대한 관심이 많습니다! <br/>
 계속해서 새로운 기술이 나오는 IT 처럼 저도 끊임없이 성장하는 개발자가 되겠습니다! <br/>
 
-<h4> more about me</h4>
-<a href="https://lghellovisiondxschool.notion.site/4fea3018c3a44c7f971b31522b199737?pvs=74" target="_blank" style="border: 1px solid black; padding: 5px;">
-  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/>
+<!--<h4> more about me</h4>
+// <a href="https://lghellovisiondxschool.notion.site/4fea3018c3a44c7f971b31522b199737?pvs=74" target="_blank" style="border: 1px solid black; padding: 5px;">
+<img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&logo=Notion&amp;&logoColor=black&amp;"/>
 </a>
+-->
 
 
 
