@@ -27,13 +27,18 @@
 
 
 <h4>once I've used</h4>
+<h5>Server </h5>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> &nbsp
+<h5>Database </h5>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> &nbsp
 <br>
+<h5>data-analysis </h5>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> &nbsp
@@ -41,26 +46,25 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> &nbsp
 <br>
+<h5>Cloud&Infra </h5>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=Amazon%20ECS&logoColor=white"> &nbsp  
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"> &nbsp
-<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white"> &nbsp
-<img src="https://img.shields.io/badge/Amazon%20CloudFront-FF9900?style=flat-square&logo=amazon-cloudfront&logoColor=white"> &nbsp
-<img src="https://img.shields.io/badge/Amazon%20Route%2053-8c4fff?style=flat-square&logo=Amazon%20Route%2053&logoColor=white"> &nbsp
-<br>
 <img src="https://img.shields.io/badge/PythonAnywhere-3776AB?style=flat-square&logo=pythonanywhere&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> &nbsp
 <br>
+<h5>Os </h5>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows10&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> &nbsp
 <br>
+<h5>Collaboration </h5>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> &nbsp
+<h5>IDE </h5>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/> &nbsp
 
 
 
@@ -73,7 +77,7 @@
 
 
 
-- 🔭 I’m currently studying on <a href='http://lghellovisiondataschool.rapa.or.kr/ft/main.do?utm_source=boottent&utm_medium=referral'>LG Hellovision DXData School</a>
+- 🔭 I studied on <a href='http://lghellovisiondataschool.rapa.or.kr/ft/main.do?utm_source=boottent&utm_medium=referral'>LG Hellovision DXData School</a>
 - 🌱 I’m currently learning Spring Boot, Airflow, Kafka, Kubernetes, Docker
 ## Contact
 
