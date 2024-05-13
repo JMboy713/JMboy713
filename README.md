@@ -50,7 +50,7 @@
 
 
 - 🔭 I studied on <a href='http://lghellovisiondataschool.rapa.or.kr/ft/main.do?utm_source=boottent&utm_medium=referral'>LG Hellovision DXData School</a>
-- 🌱 I’m currently learning Spring & SpringBoot on Hyundai IT&E 9th School
+- 🌱 I’m currently learning Spring & SpringBoot 
 ## Contact
 
 [![instagram](https://img.shields.io/badge/instagram-EC036A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/revolt_cool)](https://www.instagram.com/g.mini_07.13/)
